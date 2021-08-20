@@ -1,0 +1,648 @@
+TRACE: bwaves603_2M.trace
+CONF: 
+Number of arguments when files passed 3
+Processor Settings
+F: 4
+P: 64
+J: 3
+K: 1
+L: 2
+R: 12
+I: 10000
+
+
+
+Processor stats:
+Total instructions retired:     1996297
+Number of exceptions:           84
+Total Branch instructions:      144340
+Total load instructions:        584131
+Total store instructions:       102768
+Average Dispatch Queue size:    414120.539758
+Maximum Dispatch Queue size:    822972
+Average instructions retired:   2.368980
+Final Cycle count:              842682
+
+
+
+TRACE: gcc602_2M.trace
+CONF: 
+Number of arguments when files passed 3
+Processor Settings
+F: 4
+P: 64
+J: 3
+K: 1
+L: 2
+R: 12
+I: 10000
+
+
+
+Processor stats:
+Total instructions retired:     1997415
+Number of exceptions:           87
+Total Branch instructions:      367219
+Total load instructions:        504710
+Total store instructions:       214088
+Average Dispatch Queue size:    423629.015805
+Maximum Dispatch Queue size:    852618
+Average instructions retired:   2.273264
+Final Cycle count:              878655
+
+
+
+TRACE: mcf605_2M.trace
+CONF: 
+Number of arguments when files passed 3
+Processor Settings
+F: 4
+P: 64
+J: 3
+K: 1
+L: 2
+R: 12
+I: 10000
+
+
+
+Processor stats:
+Total instructions retired:     1997645
+Number of exceptions:           89
+Total Branch instructions:      392754
+Total load instructions:        459811
+Total store instructions:       253218
+Average Dispatch Queue size:    437206.285623
+Maximum Dispatch Queue size:    878363
+Average instructions retired:   2.232804
+Final Cycle count:              894680
+
+
+
+TRACE: perlbench600_2M.trace
+CONF: 
+Number of arguments when files passed 3
+Processor Settings
+F: 4
+P: 64
+J: 3
+K: 1
+L: 2
+R: 12
+I: 10000
+
+
+
+Processor stats:
+Total instructions retired:     1992699
+Number of exceptions:           87
+Total Branch instructions:      328459
+Total load instructions:        675800
+Total store instructions:       283657
+Average Dispatch Queue size:    430899.445642
+Maximum Dispatch Queue size:    867477
+Average instructions retired:   2.264492
+Final Cycle count:              879976
+
+
+
+TRACE: bwaves603_2M.trace
+CONF: -r 24 -p 128 -i 5000
+Number of arguments when files passed 9
+Processor Settings
+F: 4
+P: 128
+J: 3
+K: 1
+L: 2
+R: 24
+I: 5000
+
+
+
+Processor stats:
+Total instructions retired:     1996354
+Number of exceptions:           141
+Total Branch instructions:      144340
+Total load instructions:        584131
+Total store instructions:       102768
+Average Dispatch Queue size:    296211.179128
+Maximum Dispatch Queue size:    591794
+Average instructions retired:   2.815712
+Final Cycle count:              709005
+
+
+
+TRACE: gcc602_2M.trace
+CONF: -r 24 -p 128 -i 5000
+Number of arguments when files passed 9
+Processor Settings
+F: 4
+P: 128
+J: 3
+K: 1
+L: 2
+R: 24
+I: 5000
+
+
+
+Processor stats:
+Total instructions retired:     1997468
+Number of exceptions:           140
+Total Branch instructions:      367219
+Total load instructions:        504710
+Total store instructions:       214088
+Average Dispatch Queue size:    280346.108071
+Maximum Dispatch Queue size:    568321
+Average instructions retired:   2.841947
+Final Cycle count:              702852
+
+
+
+TRACE: mcf605_2M.trace
+CONF: -r 24 -p 128 -i 5000
+Number of arguments when files passed 9
+Processor Settings
+F: 4
+P: 128
+J: 3
+K: 1
+L: 2
+R: 24
+I: 5000
+
+
+
+Processor stats:
+Total instructions retired:     1997700
+Number of exceptions:           144
+Total Branch instructions:      392754
+Total load instructions:        459811
+Total store instructions:       253218
+Average Dispatch Queue size:    304801.307001
+Maximum Dispatch Queue size:    613327
+Average instructions retired:   2.766212
+Final Cycle count:              722179
+
+
+
+TRACE: perlbench600_2M.trace
+CONF: -r 24 -p 128 -i 5000
+Number of arguments when files passed 9
+Processor Settings
+F: 4
+P: 128
+J: 3
+K: 1
+L: 2
+R: 24
+I: 5000
+
+
+
+Processor stats:
+Total instructions retired:     1992752
+Number of exceptions:           140
+Total Branch instructions:      328459
+Total load instructions:        675800
+Total store instructions:       283657
+Average Dispatch Queue size:    287164.105201
+Maximum Dispatch Queue size:    574661
+Average instructions retired:   2.840685
+Final Cycle count:              701504
+
+
+
+TRACE: bwaves603_2M.trace
+CONF: -f 2 -i 100000
+Number of arguments when files passed 7
+Processor Settings
+F: 2
+P: 64
+J: 3
+K: 1
+L: 2
+R: 12
+I: 100000
+
+
+
+Processor stats:
+Total instructions retired:     1996223
+Number of exceptions:           10
+Total Branch instructions:      144340
+Total load instructions:        584131
+Total store instructions:       102768
+Average Dispatch Queue size:    22.277242
+Maximum Dispatch Queue size:    1531
+Average instructions retired:   1.996203
+Final Cycle count:              1000010
+
+
+
+TRACE: gcc602_2M.trace
+CONF: -f 2 -i 100000
+Number of arguments when files passed 7
+Processor Settings
+F: 2
+P: 64
+J: 3
+K: 1
+L: 2
+R: 12
+I: 100000
+
+
+
+Processor stats:
+Total instructions retired:     1997338
+Number of exceptions:           10
+Total Branch instructions:      367219
+Total load instructions:        504710
+Total store instructions:       214088
+Average Dispatch Queue size:    521.409259
+Maximum Dispatch Queue size:    11602
+Average instructions retired:   1.984907
+Final Cycle count:              1006263
+
+
+
+TRACE: mcf605_2M.trace
+CONF: -f 2 -i 100000
+Number of arguments when files passed 7
+Processor Settings
+F: 2
+P: 64
+J: 3
+K: 1
+L: 2
+R: 12
+I: 100000
+
+
+
+Processor stats:
+Total instructions retired:     1997566
+Number of exceptions:           10
+Total Branch instructions:      392754
+Total load instructions:        459811
+Total store instructions:       253218
+Average Dispatch Queue size:    6.039752
+Maximum Dispatch Queue size:    853
+Average instructions retired:   1.997540
+Final Cycle count:              1000013
+
+
+
+TRACE: perlbench600_2M.trace
+CONF: -f 2 -i 100000
+Number of arguments when files passed 7
+Processor Settings
+F: 2
+P: 64
+J: 3
+K: 1
+L: 2
+R: 12
+I: 100000
+
+
+
+Processor stats:
+Total instructions retired:     1992622
+Number of exceptions:           10
+Total Branch instructions:      328459
+Total load instructions:        675800
+Total store instructions:       283657
+Average Dispatch Queue size:    8.391990
+Maximum Dispatch Queue size:    853
+Average instructions retired:   1.992608
+Final Cycle count:              1000007
+
+
+
+TRACE: bwaves603_2M.trace
+CONF: -p 128 -j 3 -k 2 -l 2 -r 24
+Number of arguments when files passed 13
+Processor Settings
+F: 4
+P: 128
+J: 3
+K: 2
+L: 2
+R: 24
+I: 10000
+
+
+
+Processor stats:
+Total instructions retired:     1996275
+Number of exceptions:           62
+Total Branch instructions:      144340
+Total load instructions:        584131
+Total store instructions:       102768
+Average Dispatch Queue size:    206000.197757
+Maximum Dispatch Queue size:    411043
+Average instructions retired:   3.175541
+Final Cycle count:              628641
+
+
+
+TRACE: gcc602_2M.trace
+CONF: -p 128 -j 3 -k 2 -l 2 -r 24
+Number of arguments when files passed 13
+Processor Settings
+F: 4
+P: 128
+J: 3
+K: 2
+L: 2
+R: 24
+I: 10000
+
+
+
+Processor stats:
+Total instructions retired:     1997390
+Number of exceptions:           62
+Total Branch instructions:      367219
+Total load instructions:        504710
+Total store instructions:       214088
+Average Dispatch Queue size:    189952.900047
+Maximum Dispatch Queue size:    386555
+Average instructions retired:   3.172097
+Final Cycle count:              629675
+
+
+
+TRACE: mcf605_2M.trace
+CONF: -p 128 -j 3 -k 2 -l 2 -r 24
+Number of arguments when files passed 13
+Processor Settings
+F: 4
+P: 128
+J: 3
+K: 2
+L: 2
+R: 24
+I: 10000
+
+
+
+Processor stats:
+Total instructions retired:     1997621
+Number of exceptions:           65
+Total Branch instructions:      392754
+Total load instructions:        459811
+Total store instructions:       253218
+Average Dispatch Queue size:    227420.995282
+Maximum Dispatch Queue size:    462465
+Average instructions retired:   3.066112
+Final Cycle count:              651516
+
+
+
+TRACE: perlbench600_2M.trace
+CONF: -p 128 -j 3 -k 2 -l 2 -r 24
+Number of arguments when files passed 13
+Processor Settings
+F: 4
+P: 128
+J: 3
+K: 2
+L: 2
+R: 24
+I: 10000
+
+
+
+Processor stats:
+Total instructions retired:     1992674
+Number of exceptions:           62
+Total Branch instructions:      328459
+Total load instructions:        675800
+Total store instructions:       283657
+Average Dispatch Queue size:    195695.151714
+Maximum Dispatch Queue size:    391567
+Average instructions retired:   3.204135
+Final Cycle count:              621907
+
+
+
+TRACE: bwaves603_2M.trace
+CONF: -f 2 -j 2 -k 1 -l 1 -r 12
+Number of arguments when files passed 13
+Processor Settings
+F: 2
+P: 64
+J: 2
+K: 1
+L: 1
+R: 12
+I: 10000
+
+
+
+Processor stats:
+Total instructions retired:     1996323
+Number of exceptions:           110
+Total Branch instructions:      144340
+Total load instructions:        584131
+Total store instructions:       102768
+Average Dispatch Queue size:    84176.103995
+Maximum Dispatch Queue size:    187255
+Average instructions retired:   1.806658
+Final Cycle count:              1104981
+
+
+
+TRACE: gcc602_2M.trace
+CONF: -f 2 -j 2 -k 1 -l 1 -r 12
+Number of arguments when files passed 13
+Processor Settings
+F: 2
+P: 64
+J: 2
+K: 1
+L: 1
+R: 12
+I: 10000
+
+
+
+Processor stats:
+Total instructions retired:     1997434
+Number of exceptions:           106
+Total Branch instructions:      367219
+Total load instructions:        504710
+Total store instructions:       214088
+Average Dispatch Queue size:    52366.110101
+Maximum Dispatch Queue size:    104200
+Average instructions retired:   1.880317
+Final Cycle count:              1062286
+
+
+
+TRACE: mcf605_2M.trace
+CONF: -f 2 -j 2 -k 1 -l 1 -r 12
+Number of arguments when files passed 13
+Processor Settings
+F: 2
+P: 64
+J: 2
+K: 1
+L: 1
+R: 12
+I: 10000
+
+
+
+Processor stats:
+Total instructions retired:     1997667
+Number of exceptions:           111
+Total Branch instructions:      392754
+Total load instructions:        459811
+Total store instructions:       253218
+Average Dispatch Queue size:    97948.289030
+Maximum Dispatch Queue size:    205790
+Average instructions retired:   1.790847
+Final Cycle count:              1115487
+
+
+
+TRACE: perlbench600_2M.trace
+CONF: -f 2 -j 2 -k 1 -l 1 -r 12
+Number of arguments when files passed 13
+Processor Settings
+F: 2
+P: 64
+J: 2
+K: 1
+L: 1
+R: 12
+I: 10000
+
+
+
+Processor stats:
+Total instructions retired:     1992720
+Number of exceptions:           108
+Total Branch instructions:      328459
+Total load instructions:        675800
+Total store instructions:       283657
+Average Dispatch Queue size:    78329.366532
+Maximum Dispatch Queue size:    163117
+Average instructions retired:   1.831866
+Final Cycle count:              1087809
+
+
+
+TRACE: bwaves603_2M.trace
+CONF: -p 128 -j 3 -k 2 -l 2 -r 24 -i 1000
+Number of arguments when files passed 15
+Processor Settings
+F: 4
+P: 128
+J: 3
+K: 2
+L: 2
+R: 24
+I: 1000
+
+
+
+Processor stats:
+Total instructions retired:     1996843
+Number of exceptions:           630
+Total Branch instructions:      144340
+Total load instructions:        584131
+Total store instructions:       102768
+Average Dispatch Queue size:    208328.194463
+Maximum Dispatch Queue size:    415625
+Average instructions retired:   3.167430
+Final Cycle count:              630430
+
+
+
+TRACE: gcc602_2M.trace
+CONF: -p 128 -j 3 -k 2 -l 2 -r 24 -i 1000
+Number of arguments when files passed 15
+Processor Settings
+F: 4
+P: 128
+J: 3
+K: 2
+L: 2
+R: 24
+I: 1000
+
+
+
+Processor stats:
+Total instructions retired:     1997959
+Number of exceptions:           631
+Total Branch instructions:      367219
+Total load instructions:        504710
+Total store instructions:       214088
+Average Dispatch Queue size:    192301.275217
+Maximum Dispatch Queue size:    391454
+Average instructions retired:   3.163400
+Final Cycle count:              631586
+
+
+
+TRACE: mcf605_2M.trace
+CONF: -p 128 -j 3 -k 2 -l 2 -r 24 -i 1000
+Number of arguments when files passed 15
+Processor Settings
+F: 4
+P: 128
+J: 3
+K: 2
+L: 2
+R: 24
+I: 1000
+
+
+
+Processor stats:
+Total instructions retired:     1998209
+Number of exceptions:           653
+Total Branch instructions:      392754
+Total load instructions:        459811
+Total store instructions:       253218
+Average Dispatch Queue size:    229731.923454
+Maximum Dispatch Queue size:    467082
+Average instructions retired:   3.057647
+Final Cycle count:              653512
+
+
+
+TRACE: perlbench600_2M.trace
+CONF: -p 128 -j 3 -k 2 -l 2 -r 24 -i 1000
+Number of arguments when files passed 15
+Processor Settings
+F: 4
+P: 128
+J: 3
+K: 2
+L: 2
+R: 24
+I: 1000
+
+
+
+Processor stats:
+Total instructions retired:     1993235
+Number of exceptions:           623
+Total Branch instructions:      328459
+Total load instructions:        675800
+Total store instructions:       283657
+Average Dispatch Queue size:    198295.670055
+Maximum Dispatch Queue size:    396896
+Average instructions retired:   3.194609
+Final Cycle count:              623937
+
+
+
